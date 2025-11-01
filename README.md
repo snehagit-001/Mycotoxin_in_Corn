@@ -4,13 +4,21 @@ This project aims to predict the concentration of vomitoxin (measured in parts p
 
 Repository Structure
 The repository is structured as follows:
+
 vomitoxin-prediction/
+
 ├── data/                    # Directory containing the dataset
+
 │   └── TASK-ML-INTERN.csv   # Dataset file
+
 ├── notebooks/                # Directory containing Jupyter notebooks
+
 │   └── DON_task.ipynb       # Main notebook for data preprocessing, model training, and evaluation
+
 ├── README.md                # This file
+
 └── requirements.txt         # File listing the required Python libraries
+
 
 Installation
 To run the code in this repository, you need to install the required dependencies. Follow the steps below:
